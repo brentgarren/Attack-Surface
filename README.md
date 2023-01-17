@@ -28,4 +28,5 @@ CAASM - Cyber asset and attack suface Management (CAASM)<br>
 
 - Shows all assets (internal and external) through API intergrations with existing tools
  - builds an inventory of all tools
+ - Queries consolidated data to identify vulnerability scope and gaps in controls
  - 
