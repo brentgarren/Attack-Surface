@@ -1,5 +1,7 @@
 # how to Access attack surface
 
+
+Notes from attending ISC2 Security Briefing: How to Perform an Attack Surface Assessment<br>
 Step 1: Assess entry points to your assets<br><br>
 
 Step 2: Assess the technologies that protect your entry points<br><br>
