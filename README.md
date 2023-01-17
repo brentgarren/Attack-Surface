@@ -20,6 +20,12 @@ Use Case: Find devices not being scanned by a vulnerability scan<br><br>
 Business CAse: Assess SaaS services for risk to enterprise<br><br>
 Use Case: <br>
 
-Discovery
+Discovery<br><br>
+scanner approach
+agent based approach
+CAASM - Cyber asset and attack suface Management (CAASM)<br>
+- Focused on asset visibility and vulnerability challanges
 
-
+- Shows all assets (internal and external) through API intergrations with existing tools
+ - builds an inventory of all tools
+ - 
