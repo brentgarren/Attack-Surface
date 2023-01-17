@@ -37,4 +37,5 @@ Sanctioned SAAS Applications
 
 Unsanctioned SAAS Applications
 - apps that are unknown to you for instance is my data at risk if they suffer a breach
+- https://www.axonius.com/blog/how-effective-your-saas-attack-surface-management
 
