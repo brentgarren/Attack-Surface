@@ -13,3 +13,13 @@ Use CAse: Display a list of all asset inventory technologies <br><br>
 
 Business Case: Ensure software agents are deployed and functioning.<br>
 Use Case: Find assets missing agents (physical,virtual, server,endpoint, virtual)<br><br>
+
+Business Case: Ensure vulnerability scannercoverage meets objectives<br>
+Use Case: Find devices not being scanned by a vulnerability scan<br><br>
+
+Business CAse: Assess SaaS services for risk to enterprise<br><br>
+Use Case: <br>
+
+Discovery
+
+
