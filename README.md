@@ -24,6 +24,7 @@ Discovery<br><br>
 scanner approach
 agent based approach
 CAASM - Cyber asset and attack suface Management (CAASM)<br>
+https://www.axonius.com/blog/shrink-attack-surface-through-caasm
 - Focused on asset visibility and vulnerability challanges
 
 - Shows all assets (internal and external) through API intergrations with existing tools
