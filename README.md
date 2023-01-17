@@ -39,3 +39,4 @@ Unsanctioned SAAS Applications
 - apps that are unknown to you for instance is my data at risk if they suffer a breach<br>
 https://www.axonius.com/blog/how-effective-your-saas-attack-surface-management
 
+It's important to be knowledageable about unsanctioned SaaS because they are unknown parts of your attack surface. And is key to know where you can get the information to learn which unsanctioned apps your clients are using<br>
